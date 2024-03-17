@@ -13,6 +13,7 @@
 
 <div class="container mt-5">
   <!-- User Table -->
+  <h1>Datatable Codeigniter3</h1>
   <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
